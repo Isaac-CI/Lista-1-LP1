@@ -1,0 +1,21 @@
+#include "Pessoa.h"
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    string dito;
+    int clone, doppelganger;
+     Pessoa *pessoa1;
+     Pessoa *pessoa2;
+     Pessoa *pessoa3;
+     Pessoa pessoa4;
+     
+     pessoa1 = new Pessoa("Abel", 25, 995872314);
+     
+     pessoa2 = new Pessoa("Benedito");
+     
+     cout >> ""
+     cin >> dito
+}

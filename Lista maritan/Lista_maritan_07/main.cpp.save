@@ -1,0 +1,17 @@
+#include <iostream>
+#include "ControleDePagamentos.h"
+
+using namespace std;
+
+int main()
+{
+    ControleDePagamentos badCompany;
+    badCompany = ControleDePagamentos();
+    
+    for(int i =0; i < 2; i++)
+    {
+        badCompany.
+    }
+    
+    return 0;
+}

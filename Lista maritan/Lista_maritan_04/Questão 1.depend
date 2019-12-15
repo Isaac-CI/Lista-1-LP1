@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1574701398 source:c:\users\aluno\desktop\roteiro llp1\questão 1\main.cpp
+	"include/Data.h"
+	<iostream>
+
+1574632502 c:\users\aluno\desktop\roteiro llp1\questão 1\include\data.h
+
+1574695838 source:c:\users\isaac\desktop\roteiro llp1_modificado\questão 1\main.cpp
+	"include/Data.h"
+	<iostream>
+
+1574695848 c:\users\isaac\desktop\roteiro llp1_modificado\questão 1\include\data.h
+
+1574695848 source:c:\users\isaac\desktop\roteiro llp1_modificado\questão 1\src\data.cpp
+	"../include/Data.h"
+

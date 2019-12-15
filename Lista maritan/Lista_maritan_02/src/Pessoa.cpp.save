@@ -1,0 +1,42 @@
+#include "Pessoa.h"
+
+Pessoa::Pessoa(std::string n)
+{
+    nome = n;
+}
+Pessoa(std::string n, int i, int t)
+{
+    nome = n;
+    idade = i;
+    telefone = t;
+}
+
+Pessoa::setIdade(int i)
+{
+    idade = i;
+}
+
+Pessoa::setNome(std::string n)
+{
+    nome = n;
+}
+
+Pessoa::setTelefone(int t)
+{
+    telefone = t;
+}
+
+Pessoa::getIdade()
+{
+    return idade;
+}
+
+Pessoa::getNome()
+{
+    return nome;
+}
+
+Pessoa::getTelefone()
+{
+    return telefone;
+}

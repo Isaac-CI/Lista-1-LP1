@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574705395 source:c:\users\aluno\desktop\roteiro llp1\questão 4\main.cpp
+	<string>
+	"include/Pessoa.h"
+	<iostream>
+
+1574705427 c:\users\aluno\desktop\roteiro llp1\questão 4\include\pessoa.h
+
+1574705438 source:c:\users\aluno\desktop\roteiro llp1\questão 4\src\pessoa.cpp
+	<string>
+	"../include/Pessoa.h"
+

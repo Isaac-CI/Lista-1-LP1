@@ -1,0 +1,8 @@
+#include "ControleDePagamentos.h"
+
+ControleDePagamentos::ControleDePagamentos(){}
+
+ControleDePagamentos::setPagamentos(Pagamento p, int pos)
+{
+    pagamentos[pos].valorPagamento = p.valorPagamento;
+}
